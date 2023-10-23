@@ -2,7 +2,7 @@
 
 
 
-KLEND（仮）
+KLEND（仮）WE
 
-sobonnのsobonnがsobonnsobonn
+sobonnのsobonnがsobonnsobonn7
 yukiがyukkiyuki

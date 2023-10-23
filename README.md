@@ -5,3 +5,4 @@
 KLEND（仮）
 
 sobonnのsobonnがsobonnsobonn
+yukiがyukkiyuki

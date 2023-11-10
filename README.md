@@ -8,3 +8,4 @@ sobonnのsobonnがsobonnsobonn7
 yukiがyukkiyukils
 
 merge1 自分でmerge
+merge2 自分で作って他の人がmerge
